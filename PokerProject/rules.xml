@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Xml>
+<Xml>
+	<game name="Five-Card Draw">
+		<players min="2" max="6"/>
+		<money start="1000" ante="1" anteDoubles="true"/>
+		<play>
+			<round>ante</round>
+			<round>dealDown</round>
+			<round>dealDown</round>
+			<round>dealDown</round>
+			<round>dealDown</round>
+			<round>dealDown</round>
+			<round>bet</round>
+			<round>mayDrawDown</round>
+			<round>bet</round>
+			<round>showdown</round>
+		</play>
+	</game>
+	<game name="Seven-Card Stud">
+		<players min="2" max="6"/>
+		<money start="1000" ante="1" anteDoubles="true"/>
+		<play>
+			<round>ante</round>
+			<round>dealDown</round>
+			<round>dealDown</round>
+			<round>dealUp</round>
+			<round>bet</round>
+			<round>dealUp</round>
+			<round>bet</round>
+			<round>dealUp</round>
+			<round>bet</round>
+			<round>dealUp</round>
+			<round>bet</round>
+			<round>dealDown</round>
+			<round>bet</round>
+			<round>showdown</round>
+		</play>
+	</game>
+	<game name="Texas Hold'em">
+		<players min="2" max="23"/>
+		<money start="1000" ante="1" anteDoubles="true"/>
+		<play>
+			<round>ante</round>
+			<round>dealDown</round>
+			<round>dealDown</round>
+			<round>bet</round>
+			<round>dealCommon</round>
+			<round>dealCommon</round>
+			<round>dealCommon</round>
+			<round>bet</round>
+			<round>dealCommon</round>
+			<round>bet</round>
+			<round>dealCommon</round>
+			<round>bet</round>
+			<round>showdown</round>
+		</play>
+	</game>
+</Xml>

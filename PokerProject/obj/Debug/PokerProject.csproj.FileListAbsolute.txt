@@ -1,0 +1,12 @@
+C:\Users\ilker\Desktop\PokerProject\bin\Debug\PokerProject.exe.config
+C:\Users\ilker\Desktop\PokerProject\bin\Debug\PokerProject.exe
+C:\Users\ilker\Desktop\PokerProject\bin\Debug\PokerProject.pdb
+C:\Users\ilker\Desktop\PokerProject\obj\Debug\PokerProject.ExampleBetView.resources
+C:\Users\ilker\Desktop\PokerProject\obj\Debug\PokerProject.GameView.resources
+C:\Users\ilker\Desktop\PokerProject\obj\Debug\PokerProject.Properties.Resources.resources
+C:\Users\ilker\Desktop\PokerProject\obj\Debug\PokerProject.ExampleSetupView.resources
+C:\Users\ilker\Desktop\PokerProject\obj\Debug\PokerProject.QuestionCustom.resources
+C:\Users\ilker\Desktop\PokerProject\obj\Debug\PokerProject.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\PokerProject\obj\Debug\PokerProject.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\PokerProject\obj\Debug\PokerProject.exe
+C:\Users\ilker\Desktop\PokerProject\obj\Debug\PokerProject.pdb

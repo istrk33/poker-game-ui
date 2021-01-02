@@ -1,0 +1,9 @@
+1. Pour la classe Card il y a autant d'instances que de cartes, Player autant d'instances que de joueurs et RuleSet que une seule.
+Une RuleSet contient plusieurs Player et Card. Un player contient plusieurs Card.
+
+2. Elle interagit avec la classe GameController à l'aide de la méthode "EntryBox_KeyDown" en utilisant GameController.Interpret(text);
+
+3. La partie se lance, tout d'abord en entrant le nom du type du jeu dans la textbox, dès que l'évènement keydown est est détecté,
+le programme véifie que c'est la touche "ENTER", pour ensuite interpréter ce texte dans la classe GameController.
+En fonction des entrées effectués dans la textbox, le programme va regarder si l'entrée est conforme en fonction de l'étape du jeu,
+que ca soit pour, le type de jeu, nombre de joueur, nom des joueurs ...Etc
